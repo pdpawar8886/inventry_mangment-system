@@ -1,0 +1,24 @@
+
+div{
+    background-color:blue ;
+}
+button
+{
+    background-color: rgb(249, 100,200);
+}
+#box{
+    background-color:rgb(196, 82, 82) ;
+}
+.heading
+{
+    background-color: goldenrod;
+}
+p{
+    font-size: x-large;
+    text-align: right;
+
+}
+#h
+{
+    font-weight: 200;
+}
